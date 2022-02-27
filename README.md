@@ -1,2 +1,2 @@
-# smallPythonProjects
-A collection of small python projects for learning and practice
+# python stew
+A collection of python and scripts and small projects 
